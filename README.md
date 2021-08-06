@@ -19,12 +19,6 @@ I'm a software engineering student working as a fullstack developer at [Multipli
 <br/>
 <br/>
 
-## Metrics
-
-Thanks to [metrics.lecoq.io](https://metrics.lecoq.io/)
-
-![Metrics](https://metrics.lecoq.io/FeBaumgartel?template=classic&followup=1&config.timezone=Europe%2FMadrid)
-
 ### Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FeBaumgartel&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
