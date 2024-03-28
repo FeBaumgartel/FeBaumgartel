@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineering student working as a fullstack developer at [Multiplier](https://multiplier.com.br/) in Jaraguá do Sul, Brazil 🌆
+I'm a software engineer and I live in Jaraguá do Sul, Brazil, I'm currently working at [Sensedia](https://www.sensedia.com.br/) on the Open Finance Brazil specification.  🌆
 
 
 <a href="https://www.linkedin.com/in/felipe-b-284752123/">
